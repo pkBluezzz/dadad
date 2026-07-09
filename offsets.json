@@ -41,4 +41,11 @@
     "dwSoundSystem": 5317472,
     "dwSoundSystem_engineViewData": 124
   }
+}  "matchmaking.dll": {
+    "dwGameTypes": 1773440
+  },
+  "soundsystem.dll": {
+    "dwSoundSystem": 5317472,
+    "dwSoundSystem_engineViewData": 124
+  }
 }
